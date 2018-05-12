@@ -1,0 +1,6 @@
+E:\个人代码库\DYong.Framework\数据库操作层\DYong.Data.Contract\bin\Debug\DYong.Data.Contract.dll
+E:\个人代码库\DYong.Framework\数据库操作层\DYong.Data.Contract\bin\Debug\DYong.Data.Contract.pdb
+E:\个人代码库\DYong.Framework\数据库操作层\DYong.Data.Contract\bin\Debug\DYong.Data.Contract.XML
+E:\个人代码库\DYong.Framework\数据库操作层\DYong.Data.Contract\obj\Debug\DYong.Data.Contract.csprojResolveAssemblyReference.cache
+E:\个人代码库\DYong.Framework\数据库操作层\DYong.Data.Contract\obj\Debug\DYong.Data.Contract.dll
+E:\个人代码库\DYong.Framework\数据库操作层\DYong.Data.Contract\obj\Debug\DYong.Data.Contract.pdb
