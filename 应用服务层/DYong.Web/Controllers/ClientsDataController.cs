@@ -13,7 +13,7 @@ using DYong.Entity.Entitys.SystemManage;
 namespace DYong.Web.Controllers
 {
     /// <summary>
-    /// 客户端数据获取接口
+    /// 客户端数据获取接口【DarkYong】
     /// </summary>
     [HandlerLogin]
     public class ClientsDataController : Controller
